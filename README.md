@@ -1,4 +1,4 @@
-# 💻 Hi, i'm Erick
+# Hi, I'm Erick! 🧛💻
 
 **`Fullstack Dev / Software Engineer`**
 
