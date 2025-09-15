@@ -2,7 +2,7 @@
 
 **`Fullstack Dev / Software Engineer`**
 
-Ampla experiência com linguagens como JavaScript, PHP, HTML, CSS e SQL, além de domínio sobre frameworks, bibliotecas e ORMs. No momento, estou cursando Análise e Desenvolvimento de Sistemas, e atuo principalmente no ecossistema PHP, com Composer, Laravel e arquitetura do Wordpress fazendo parte do meu dia a dia no desenvolvimento e na gestão eficiente dessas ferramentas. Também possuo conhecimento avançado em infraestrutura de redes e servidores, o que me permite atuar de ponta a ponta nos projetos — desde a codificação até o ambiente de produção. Experiência também com metodologias ágeis, especialmente SCRUM.
+Ampla experiência com linguagens como JavaScript, PHP, HTML, CSS e SQL, além de domínio sobre frameworks, bibliotecas e ORMs. Formado em web-design e desenvolvimento fullstack. No momento, estou cursando Análise e Desenvolvimento de Sistemas, e atuo principalmente no ecossistema PHP, com Composer, Laravel e arquitetura do Wordpress fazendo parte do meu dia a dia no desenvolvimento e na gestão eficiente dessas ferramentas. Também possuo conhecimento avançado em infraestrutura de redes e servidores, o que me permite atuar de ponta a ponta nos projetos — desde a codificação até o ambiente de produção. Experiência também com metodologias ágeis, especialmente SCRUM.
 
 
 ---
