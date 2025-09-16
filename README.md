@@ -1,4 +1,4 @@
-# Welcome human 🧛💻
+# Welcome, human 🧛💻
 
 **`Fullstack Dev / Software Engineer`**
 
